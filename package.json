@@ -1,0 +1,26 @@
+{
+  "name": "simple-koa-code",
+  "version": "1.0.0",
+  "description": "very simple koa implement in 2017 year... and koa source code read with Chinese",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZWkang/simple-koa-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZWkang/simple-koa-code/issues"
+  },
+  "homepage": "https://github.com/ZWkang/simple-koa-code#readme",
+  "devDependencies": {
+    "supertest": "^4.0.2",
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
